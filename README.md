@@ -33,7 +33,7 @@ The dataset, provided by the competition organizers on Kaggle (https://www.kaggl
 - Integrate multi-object tracking for continuous helmet identification across frames.
 - Extend detection to collision type classification for direct injury risk assessment.
 ## How to Run
-This repository contains a Jupyter Notebook (`nfl_helmet_detection.ipynb`) that demonstrates the complete workflow — from dataset preparation to model training, evaluation, and testing.
+This repository contains a Jupyter Notebook (`NFLHelmetCollisionDetection.ipynb`) that demonstrates the complete workflow — from dataset preparation to model training, evaluation, and testing.
 **To run the notebook:**
 1. Open the notebook in [Kaggle](https://www.kaggle.com/) or a local Jupyter environment.
 2. Ensure Python 3.8+ is installed, along with the required dependencies:
@@ -61,4 +61,5 @@ Key resources include:
 - **Taylor Thomas**    
 - **Samaneh Rabienia**  
 - **Laziz Muradov**  
+
 - **Mahsen Al-Ani**
